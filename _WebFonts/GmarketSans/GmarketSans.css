@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+/* -------- Gmarket Sans -------- */
+/* 라이센스출처 : https://corp.gmarket.com/fonts/ */
+/* -- font-family:"Gmarket Sans";					300 / 500 / 700 -- */
+@font-face {
+	font-family:"Gmarket Sans";
+	font-style:normal;
+	font-weight:700;
+	font-display:swap;
+	src:	local("Gmarket Sans Bold"),
+			local("GmarketSans-Bold"),
+			url("./GmarketSansBold.woff2") format("woff2"),
+			url("./GmarketSansBold.woff") format("woff");
+}
+@font-face {
+	font-family:"Gmarket Sans";
+	font-style:normal;
+	font-weight:500;
+	font-display:swap;
+	src:	local("Gmarket Sans Medium"),
+			local("GmarketSans-Medium"),
+			url("./GmarketSansMedium.woff2") format("woff2"),
+			url("./GmarketSansMedium.woff") format("woff");
+}
+@font-face {
+	font-family:"Gmarket Sans";
+	font-style:normal;
+	font-weight:300;
+	font-display:swap;
+	src:	local("Gmarket Sans Light"),
+			local("GmarketSans-Light"),
+			url("./GmarketSansLight.woff2") format("woff2"),
+			url("./GmarketSansLight.woff") format("woff");
+}
