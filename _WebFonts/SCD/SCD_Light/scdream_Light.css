@@ -5,7 +5,7 @@
 /* -------- S-Core Dream -------- */
 /* -- font-family:"SCoreDream";					100(Thin) / 300(Light) / 400(Regular) / 500(Medium) / 600(Bold) / 700(ExtraBold) -- */
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 100;
 	font-style: normal;
 	src: url(./scdream1.woff2) format('woff2'),
@@ -13,7 +13,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 200;
 	font-style: normal;
 	src: url(./scdream2.woff2) format('woff2'),
@@ -21,7 +21,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 300;
 	font-style: normal;
 	src: url(./scdream3.woff2) format('woff2'),
@@ -29,7 +29,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 400;
 	font-style: normal;
 	src: url(./scdream4.woff2) format('woff2'),
@@ -37,7 +37,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 500;
 	font-style: normal;
 	src: url(./scdream5.woff2) format('woff2'),
@@ -45,7 +45,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 600;
 	font-style: normal;
 	src: url(./scdream6.woff2) format('woff2'),
@@ -53,7 +53,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 700;
 	font-style: normal;
 	src: url(./scdream7.woff2) format('woff2'),
@@ -61,7 +61,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 800;
 	font-style: normal;
 	src: url(./scdream8.woff2) format('woff2'),
@@ -69,7 +69,7 @@
 	font-display: swap;
 }
 @font-face {
-	font-family: "SCoreDream";
+	font-family: "SCoreDreamLight";
 	font-weight: 900;
 	font-style: normal;
 	src: url(./scdream9.woff2) format('woff2'),
