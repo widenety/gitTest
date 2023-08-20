@@ -8,71 +8,71 @@
 	font-family: "SCoreDreamLight";
 	font-weight: 100;
 	font-style: normal;
-	src: url(./scdreamLight1.woff2) format('woff2'),
-		 url(./scdreamLight1.woff) format('woff');
+	src: url(./scdream_Light_1.woff2) format('woff2'),
+		 url(./scdream_Light_1.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 200;
 	font-style: normal;
-	src: url(./scdreamLight2.woff2) format('woff2'),
-		 url(./scdreamLight2.woff) format('woff');
+	src: url(./scdream_Light_2.woff2) format('woff2'),
+		 url(./scdream_Light_2.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 300;
 	font-style: normal;
-	src: url(./scdreamLight3.woff2) format('woff2'),
-		 url(./scdreamLight3.woff) format('woff');
+	src: url(./scdream_Light_3.woff2) format('woff2'),
+		 url(./scdream_Light_3.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 400;
 	font-style: normal;
-	src: url(./scdreamLight4.woff2) format('woff2'),
-		 url(./scdreamLight4.woff) format('woff');
+	src: url(./scdream_Light_4.woff2) format('woff2'),
+		 url(./scdream_Light_4.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 500;
 	font-style: normal;
-	src: url(./scdreamLight5.woff2) format('woff2'),
-		 url(./scdreamLight5.woff) format('woff');
+	src: url(./scdream_Light_5.woff2) format('woff2'),
+		 url(./scdream_Light_5.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 600;
 	font-style: normal;
-	src: url(./scdreamLight6.woff2) format('woff2'),
-		 url(./scdreamLight6.woff) format('woff');
+	src: url(./scdream_Light_6.woff2) format('woff2'),
+		 url(./scdream_Light_6.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 700;
 	font-style: normal;
-	src: url(./scdreamLight7.woff2) format('woff2'),
-		 url(./scdreamLight7.woff) format('woff');
+	src: url(./scdream_Light_7.woff2) format('woff2'),
+		 url(./scdream_Light_7.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 800;
 	font-style: normal;
-	src: url(./scdreamLight8.woff2) format('woff2'),
-		 url(./scdreamLight8.woff) format('woff');
+	src: url(./scdream_Light_8.woff2) format('woff2'),
+		 url(./scdream_Light_8.woff) format('woff');
 	font-display: swap;
 }
 @font-face {
 	font-family: "SCoreDreamLight";
 	font-weight: 900;
 	font-style: normal;
-	src: url(./scdreamLight9.woff2) format('woff2'),
-		 url(./scdreamLight9.woff) format('woff');
+	src: url(./scdream_Light_9.woff2) format('woff2'),
+		 url(./scdream_Light_9.woff) format('woff');
 	font-display: swap;
 }
