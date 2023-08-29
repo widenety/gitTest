@@ -1,29 +1,26 @@
 # Resources
 <h1>[01]. WebFonts</h1>
 
-GmarketSans<br>
+01. GmarketSans<br>
 https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/GmarketSans/GmarketSans_v1.0.css
 
-
-InkLipquid<br>
+02. InkLipquid<br>
 https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/InkLipquid/InkLipquid_v1.0.css
 
-
-NotoSansKR<br>
+03. NotoSansKR<br>
 https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/NotoSansKR/notoSansKr_v1.0.css
 
-
-SBAggro<br>
+04. SBAggro<br>
 https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SBAggro/SBAggro_v1.0.css
 
+05. SCD - Full<br>
+https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SCD/SCD_Full/scdream_Full_v1.1.css
 
-SCD<br>
-Full : https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SCD/SCD_Full/scdream_Full_v1.1.css<br>
-Light : https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SCD/SCD_Light/scdream_Light_v1.1.css
+06. SCD - Light<br>
+https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SCD/SCD_Light/scdream_Light_v1.1.css
 
-SUIT<br>
+07. SUIT<br>
 https://cdn.jsdelivr.net/gh/widenety/gitTest/_WebFonts/SUIT/suit_v1.0.css
-
 
 <br>
 
