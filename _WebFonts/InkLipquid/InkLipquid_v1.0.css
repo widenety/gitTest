@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* -------- InkLipquid -------- */
+/* -- font-family:'InkLipquid';	normal / bold -- */
+@font-face {
+	font-family:'InkLipquid';
+	src:url('./InkLipquid.woff') format('woff');
+	font-weight:normal;
+	font-style:normal;
+}

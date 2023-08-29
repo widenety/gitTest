@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* -------- SandBox A -------- */
+/* -- font-family:"SBAggro";	300 / 500 / 700 */
+/* -- License : https://sandbox.co.kr/fonts/aggro --*/
+@font-face {
+    font-family:"SBAggro";
+    font-weight:300;
+    font-style:normal;
+    src:url("./SBAggroLight.eot");
+    src:url("./SBAggroLight.eot?#iefix") format("embedded-opentype"),
+        url("./SBAggroLight.woff2") format("woff2"),
+        url("./SBAggroLight.woff") format("woff"),
+        url("./SBAggroLight.ttf") format("truetype");
+    font-display:swap;
+}
+@font-face {
+    font-family:"SBAggro";
+    font-weight:500;
+    font-style:normal;
+    src:url("./SBAggroMedium.eot");
+    src:url("./SBAggroMedium.eot?#iefix") format("embedded-opentype"),
+        url("./SBAggroMedium.woff2") format("woff2"),
+        url("./SBAggroMedium.woff") format("woff"),
+        url("./SBAggroMedium.ttf") format("truetype");
+    font-display:swap;
+}
+@font-face {
+    font-family:"SBAggro";
+    font-weight:700;
+    font-style:normal;
+    src:url("./SBAggroBold.eot");
+    src:url("./SBAggroBold.eot?#iefix") format("embedded-opentype"),
+        url("./SBAggroBold.woff2") format("woff2"),
+        url("./SBAggroBold.woff") format("woff"),
+        url("./SBAggroBold.ttf") format("truetype");
+    font-display:swap;
+}
